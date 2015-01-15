@@ -1,6 +1,6 @@
 Welcome to FundingCircle Autobid.
 
-Goto www.beyerbeyer/fc/auction.php to see live demonstration. Be careful... this uses our real money!
+Goto www.beyerbeyer.co.uk/fc/auction.php to see live demonstration. Be careful... this uses our real money!
 Bid only on auctions that end in six days.
 Stop rate must be only 0.2% below top rate available. 
 
