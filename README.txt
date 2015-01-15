@@ -19,4 +19,13 @@ Clearing data will stop autobidding instantly.
 Once data is saved it will be stored in database.
 Data is collected from database every two minutes.
 
+To view activity each row from auction.php has a respective logfile:
+www.beyerbeyer.co.uk/fc/logfile1.html
+www.beyerbeyer.co.uk/fc/logfile2.html
+www.beyerbeyer.co.uk/fc/logfile3.html
+www.beyerbeyer.co.uk/fc/logfile4.html
+www.beyerbeyer.co.uk/fc/logfile5.html
+
+
+
 
