@@ -121,9 +121,9 @@ function fc_login() {
 
 function get_answer($question_num) {
 
-	if ($question_num == 1) $answer = 'hallgreen'; 
-	if ($question_num == 2) $answer = 'hallgreenjuniors';
-	if ($question_num == 3) $answer = 'greeny';
+	if ($question_num == 1) $answer = 'xxx'; 
+	if ($question_num == 2) $answer = 'xxx';
+	if ($question_num == 3) $answer = 'xxx';
 	return $answer;
 
 }

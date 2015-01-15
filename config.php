@@ -1,8 +1,8 @@
 <?php
 
 define ('COOKIEFILE', '/kunden/homepages/16/d528087927/htdocs/beyerbeyer/fc/cookie.txt');
-define ('EMAIL', 'philipxyz@btopenworld.com');
-define ('PASSWORD', 'Funding2014%');
+define ('EMAIL', 'xxx');
+define ('PASSWORD', 'xxx%');
 define ('PID', getmygid());
 
 date_default_timezone_set('Europe/Lisbon');
