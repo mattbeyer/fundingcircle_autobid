@@ -1,4 +1,4 @@
-Welcome to FundingCircle Autobid.
+﻿Welcome to FundingCircle Autobid.
 
 Goto www.beyerbeyer.co.uk/fc/auction.php to see live demonstration. Be careful... this uses our real money!
 Bid only on auctions that end in six days.
@@ -26,6 +26,7 @@ www.beyerbeyer.co.uk/fc/logfile3.html
 www.beyerbeyer.co.uk/fc/logfile4.html
 www.beyerbeyer.co.uk/fc/logfile5.html
 
+To get the latest activity these pages need to be refreshed. They are emptied during start of each reloading of autobid, every 2 minutes.
 
 
 
